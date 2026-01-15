@@ -51,7 +51,7 @@ From structuring backend logic to refining frontend interactions, I enjoy unders
 
 ## 🌐 Connect with Me
 
----
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kalyana-chakravarthi-eluri" target="_blank">
