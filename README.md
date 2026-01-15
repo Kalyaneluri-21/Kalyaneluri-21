@@ -14,3 +14,16 @@ I enjoy building complete features — backend logic, frontend flow, and everyth
 
 Currently focused on strengthening fundamentals, writing better code each day, and learning through hands-on projects 🚀
 
+## 🛠 Tech Stack
+
+### Languages, Frameworks & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,tailwind,git,github,vscode,postman" />
+</p>
+
+
