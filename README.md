@@ -9,8 +9,8 @@
 
 ## 👋 About Me
 
-I’m **Kalyan Eluri**, a full-stack developer focused on building clean, scalable web applications.  
-I enjoy working across the stack, learning by building real-world projects, and improving code quality with every iteration.
+I’m Kalyan Eluri, a full-stack developer who enjoys breaking down real problems and turning them into practical web solutions.    
+I enjoy building complete features — backend logic, frontend flow, and everything in between.
 
-Curious, consistent, and always excited to grow 🚀
+Currently focused on strengthening fundamentals, writing better code each day, and learning through hands-on projects 🚀
 
