@@ -7,12 +7,27 @@
   />
 </p>
 
+
 ## 👋 About Me
 
 I’m Kalyan Eluri, a full-stack developer who enjoys breaking down real problems and turning them into practical web solutions.    
 I enjoy building complete features — backend logic, frontend flow, and everything in between.
 
 Currently focused on strengthening fundamentals, writing better code each day, and learning through hands-on projects 🚀
+
+
+🎯 Motivations & Interests
+
+I enjoy working on problems that require thinking beyond just writing code — understanding the “why”, then building solutions that actually make sense to use.
+Whether it’s structuring backend logic, improving frontend interactions, or refining how different parts of an app work together, I like focusing on the details.
+
+💡 What keeps me motivated:
+
+Building applications that solve real, practical problems
+Learning new tools by applying them in real projects
+Continuously improving code quality and system design
+
+
 
 ## 🛠 Tech Stack
 
