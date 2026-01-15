@@ -16,16 +16,19 @@ I enjoy building complete features — backend logic, frontend flow, and everyth
 Currently focused on strengthening fundamentals, writing better code each day, and learning through hands-on projects 🚀
 
 
-🎯 Motivations & Interests
+## 🎯 Motivations & Interests
 
-I enjoy working on problems that require thinking beyond just writing code — understanding the “why”, then building solutions that actually make sense to use.
-Whether it’s structuring backend logic, improving frontend interactions, or refining how different parts of an app work together, I like focusing on the details.
+---
 
-💡 What keeps me motivated:
+I’m driven by the challenge of solving meaningful problems and building systems that feel intuitive to use.  
+From structuring backend logic to refining frontend interactions, I enjoy understanding how different pieces come together.
 
-Building applications that solve real, practical problems
-Learning new tools by applying them in real projects
-Continuously improving code quality and system design
+💡 **What fuels me:**
+
+- Building applications that solve real-world problems  
+- Turning ideas into clean, production-ready features  
+- Continuously learning, experimenting, and improving my craft
+
 
 
 
