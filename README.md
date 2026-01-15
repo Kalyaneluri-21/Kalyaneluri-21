@@ -22,8 +22,8 @@ Currently focused on strengthening fundamentals, writing better code each day, a
 ## 🎯 Motivations & Interests
 
 
-I’m driven by the challenge of solving meaningful problems and building systems that feel intuitive to use.  
-From structuring backend logic to refining frontend interactions, I enjoy understanding how different pieces come together.
+I’m motivated by learning how things work and using that understanding to build better applications.
+From experimenting with UI behavior to strengthening backend logic, I enjoy exploring different parts of the stack and connecting them into complete solutions.
 
 💡 **What fuels me:**
 
